@@ -7,4 +7,4 @@ jupyter-notebook SageMaker_LSTM.ipynb
 
 # The architecture of the deployed application
 
-![alt text](https://github.com/chetanrrk/sentiment_detection/blob/main/Web_App_Diagram.svg?raw=true)
+![alt text](https://github.com/chetanrrk/sentiment_detector/blob/main/Web_App_Diagram.svg?raw=true)
