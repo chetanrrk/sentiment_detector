@@ -10,7 +10,7 @@ cd sentiment_detector
 ## LSTM Model
 jupyter-notebook SageMaker_LSTM.ipynb 
 
-## XGBoosr Model
+## XGBoost Model
 jupyter-notebook SageMaker_XGBoost.ipynb
 
 # The architecture of the deployed application
