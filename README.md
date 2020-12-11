@@ -1,6 +1,6 @@
 # Sentiment Detection from IMDB Movie Review Deployment Project
 
-The notebook and Python files, and simple web app interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. LSTM model was built on PyTorch single a single hidden layer and sigmoid activation function. The model is trained on a large IMDB movie review data converted into bag-of-words with labels, and  deployed on AWS SageMaker using lambda function and API GateWay.
+The simple web app interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. LSTM model is built using PyTorch consisting of single a single hidden layer and sigmoid activation function. XGBoost model that uses the ML libarary of sagemaker is also trained and deployed on a separate notebook. The models are trained on a large IMDB movie review data converted into bag-of-words with labels, and  deployed on AWS SageMaker using lambda function and API GateWay.
 
 # To Run
 git clone https://github.com/chetanrrk/sentiment_detector
