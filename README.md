@@ -4,7 +4,9 @@ The notebook and Python files, and simple web app interacts with a deployed recu
 
 # To Run
 git clone https://github.com/chetanrrk/sentiment_detector
+
 cd sentiment_detector
+
 jupyter-notebook SageMaker_LSTM.ipynb
 
 # The architecture of the deployed application
