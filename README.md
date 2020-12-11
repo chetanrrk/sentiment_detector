@@ -7,7 +7,11 @@ git clone https://github.com/chetanrrk/sentiment_detector
 
 cd sentiment_detector
 
-jupyter-notebook SageMaker_LSTM.ipynb
+## LSTM Model
+jupyter-notebook SageMaker_LSTM.ipynb 
+
+## XGBoosr Model
+jupyter-notebook SageMaker_XGBoost.ipynb
 
 # The architecture of the deployed application
 
